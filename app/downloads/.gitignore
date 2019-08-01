@@ -1,0 +1,6 @@
+# This gitignore file is created to keep the folders downloads and output under version control, although they are empty.
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
