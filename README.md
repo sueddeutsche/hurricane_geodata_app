@@ -21,7 +21,7 @@ If you want to use the raw Shiny-App, you'll have to install [R](https://www.r-p
 The app folder of this repo is structured like this:
 
 ```
-Docker_Hurricane_App/
+hurricane_geodata_app/
 ├── Dockerfile
 ├── app
 │   ├── app.R
@@ -87,7 +87,7 @@ Feel free to contribute to this app.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
