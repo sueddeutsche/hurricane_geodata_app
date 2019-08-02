@@ -3,9 +3,9 @@ library(rvest)
 library(dplyr)
 library(stringr)
 library(rgdal)
-library(geojsonio)
-library(rmapshaper)
-library(geojson)
+library("geojsonio")
+library("rmapshaper")
+library("geojson")
 
 ui <- fluidPage(
     mainPanel(
@@ -26,7 +26,7 @@ ui <- fluidPage(
   a("Benedict Witzenberger, Süddeutsche Zeitung", href = "mailto:benedict.witzenberger@sz.de"),
   p(),
   strong("Idee und Datenskript:"), 
-  a("Marie-José Kolly, NZZ", href = "https://github.com/nzzdev/st-methods/tree/master/1825-hurrikan%20kartenmethodik")
+  a("Marie-José Kolly, Anna Wiederkehr, NZZ", href = "https://github.com/nzzdev/st-methods/tree/master/1825-hurrikan%20kartenmethodik")
 )
 
 server <- function(input, output, session) {

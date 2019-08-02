@@ -92,4 +92,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Thanks to our colleagues from [NZZ Visuals](https://github.com/nzzdev/st-methods/tree/master/1825-hurrikan%20kartenmethodik) for their hurricane-script, which is the foundation of this app. They already sorted out, why the 34knts-level is a good visual for reporting on hurricanes. 
-* Special thanks to NZZ's [Marie-José Kolly](https://github.com/mkolly).
+* Special thanks to NZZ's [Marie-José Kolly](https://github.com/mkolly) and [Anna Wiederkehr](https://twitter.com/wiederkehra).
